@@ -1,3 +1,3 @@
 [build]
-  publish = "miWebpack/dist"
+  publish = "miWebpack/dist/"
   CI = "npm run build"
